@@ -5,4 +5,4 @@ Projects 📁
 C Programming Exercises: This section contains various exercises and mini-projects written in C. Each folder is dedicated to a specific concept or exercise.
 
 Web Development Exploration: As I progress in my learning journey, I'll be incorporating web development projects and experiments, combining my C programming skills with HTML, CSS, JavaScript, and more.
-[![mmaghri's 42 stats](https://badge.mediaplus.ma/binary/mmaghri?42Network=off)](https://github.com/oakoudad/badge42)
+
