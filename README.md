@@ -1,3 +1,4 @@
+https://badge.mediaplus.ma/binary/mmaghri?42Network=off
 Welcome to My Coding Journey Repository! 🚀
 Hey there! I'm a student at 1337 coding school in Morocco, currently exploring the fundamentals of C programming in my first year. This repository is a collection of projects, exercises, and experiments as I delve into the world of coding. Additionally, I'm passionate about web development and excited to blend C knowledge with web technologies. 💻✨
 
